@@ -4,6 +4,6 @@
   tasks:
     - name: install Alfred
       mac_pkg: pkg_type=app
-               url=https://cachefly.alfredapp.com/Alfred_2.8_414.zip
-               archive_type=zip archive_path='Alfred 2.app'
+               url=https://cachefly.alfredapp.com/Alfred_3.0.3_694.dmg
+               archive_type=zip archive_path='Alfred 3.app'
       sudo: yes
