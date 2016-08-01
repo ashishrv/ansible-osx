@@ -5,5 +5,5 @@
     - name: install Alfred
       mac_pkg: pkg_type=app
                url=https://cachefly.alfredapp.com/Alfred_3.0.3_694.dmg
-               archive_type=dmg archive_path='Alfred.app'
+               archive_type=dmg archive_path='Alfred 3.app'
       sudo: yes
