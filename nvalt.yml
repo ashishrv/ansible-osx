@@ -6,4 +6,4 @@
       mac_pkg: pkg_type=app
                url=http://abyss.designheresy.com/nvaltb/nvalt2.2b106.zip
                archive_type=zip archive_path=nvalt.app
-sudo: yes
+      sudo: yes
