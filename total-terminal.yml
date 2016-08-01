@@ -5,6 +5,6 @@
     - name: install total terminal
       mac_pkg: pkg_type=app
                url=http://downloads.binaryage.com/TotalTerminal-1.6.dmg
-               archive_type=dmg archive_path='TotalTerminal.app'
+               archive_type=dmg archive_path='TotalTerminal.pkg'
       sudo: yes
 
