@@ -4,7 +4,7 @@
   tasks:
     - name: install total terminal
       mac_pkg: pkg_type=app
-               url=http://downloads.binaryage.com/TotalTerminal-1.5.4.dmg
+               url=http://downloads.binaryage.com/TotalTerminal-1.6.dmg
                archive_type=dmg archive_path='TotalTerminal.app'
       sudo: yes
 
